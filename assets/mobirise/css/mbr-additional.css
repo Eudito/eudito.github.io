@@ -1996,6 +1996,9 @@ body {
 .cid-qQI9Bo8RUv .media-container-row .mbr-text {
   color: #ffffff;
 }
+.cid-qQI9Bo8RUv foot-menu-item {
+  text-align: right;
+}
 .cid-qQGLNzPnlP .navbar {
   padding: .5rem 0;
   background: #073b4c;
@@ -2449,4 +2452,7 @@ body {
 }
 .cid-qQI9Bo8RUv .media-container-row .mbr-text {
   color: #ffffff;
+}
+.cid-qQI9Bo8RUv foot-menu-item {
+  text-align: right;
 }
