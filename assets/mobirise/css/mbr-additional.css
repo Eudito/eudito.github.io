@@ -1551,7 +1551,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qQT2Vn18mL .mbr-section-subtitle {
-  color: #767676;
+  color: #0f7699;
 }
 .cid-qQT2Vn18mL a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1568,6 +1568,12 @@ body {
 .cid-qQT2Vn18mL .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qQT2Vn18mL H2 {
+  color: #0f7699;
+}
+.cid-qQT2Vn18mL LABEL {
+  color: #0f7699;
 }
 .cid-qQGLNzPnlP .navbar {
   padding: .5rem 0;
